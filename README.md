@@ -6,7 +6,7 @@
 <head>
   <meta charset=utf-8>
   <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-  <title>DICOM数字影像</title>
+  <title>Lk</title>
   <link rel=icon type=image/x-icon href=asset/favicon.ico>
   <link href=./huiying/asset/css/hyif.94e373e7bc1a97bbf73b.css rel=stylesheet>
   <link href=./huiying/asset/css/vendor.38845cb0df2994b06045.css rel=stylesheet>
